@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TrndMart/static/css/main.97c1779b.chunk.css",
+    "main.js": "/TrndMart/static/js/main.2c95686e.chunk.js",
+    "main.js.map": "/TrndMart/static/js/main.2c95686e.chunk.js.map",
+    "runtime-main.js": "/TrndMart/static/js/runtime-main.a2c0fe60.js",
+    "runtime-main.js.map": "/TrndMart/static/js/runtime-main.a2c0fe60.js.map",
+    "static/js/2.53ef9840.chunk.js": "/TrndMart/static/js/2.53ef9840.chunk.js",
+    "static/js/2.53ef9840.chunk.js.map": "/TrndMart/static/js/2.53ef9840.chunk.js.map",
+    "index.html": "/TrndMart/index.html",
+    "static/css/main.97c1779b.chunk.css.map": "/TrndMart/static/css/main.97c1779b.chunk.css.map",
+    "static/js/2.53ef9840.chunk.js.LICENSE.txt": "/TrndMart/static/js/2.53ef9840.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2c0fe60.js",
+    "static/js/2.53ef9840.chunk.js",
+    "static/css/main.97c1779b.chunk.css",
+    "static/js/main.2c95686e.chunk.js"
+  ]
+}
